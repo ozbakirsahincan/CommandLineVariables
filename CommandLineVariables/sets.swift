@@ -19,11 +19,12 @@ var myStringSet : Set = ["a","b","c","d"];
 
 let myInternetArray = [1,2,3,4,5,1,6,7,2,1,3,4,5];
 var myInternetSet = Set(myInternetArray);
-print("Internet Array ",myInternetArray);
-print("Internet Set " ,myInternetSet);
+//print("Internet Array ",myInternetArray);
+//print("Internet Set " ,myInternetSet);
 
 let mySet1 : Set = [1,2,3,4];
 let mySet2 : Set = [2,3,4,5,6,7];
 
 let mySet3 = mySet1.union(mySet2);
-print("3. Set ",mySet3);
+//print("3. Set ",mySet3);
+//print(mySet3)
